@@ -1,6 +1,6 @@
-# Allergiapeli
+# Seksuaalisuuspeli
 
-Peli allergioista.
+Peli seksuaalisuudesta.
 
-https://suvisannisofia.github.io/allergiapeli
+https://suvisannisofia.github.io/seksuaalisuuspeli
 
